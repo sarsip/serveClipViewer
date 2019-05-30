@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bfd9ce6aa7f96bcf520103330dd76e3",
+    "revision": "a2ce6bd1bd7be5ba9691bf91c1a43720",
     "url": "/serveClipViewer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serveClipViewer/static/css/2.f8f17324.chunk.css"
   },
   {
-    "revision": "7cec09f99ab62577fc1e",
+    "revision": "194882604c8042172acb",
     "url": "/serveClipViewer/static/css/main.8ef63b32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serveClipViewer/static/js/2.41c80ad2.chunk.js"
   },
   {
-    "revision": "7cec09f99ab62577fc1e",
-    "url": "/serveClipViewer/static/js/main.85f840b0.chunk.js"
+    "revision": "194882604c8042172acb",
+    "url": "/serveClipViewer/static/js/main.40d62970.chunk.js"
   },
   {
     "revision": "9baf69387f45e91a4cfa",
